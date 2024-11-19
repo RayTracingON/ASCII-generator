@@ -1,5 +1,5 @@
 # [PYTHON] ASCII generator
-
+# Update for Pillow 11.0.0
 ## Introduction
 
 Here is my python source code for ASCII generator. With my code: 

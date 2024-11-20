@@ -1,5 +1,6 @@
 # [PYTHON] ASCII generator
 # Update for Pillow 11.0.0
+## Because getsize isn't supported in pillow 11.0.o, so I change it to getbbox
 ## Introduction
 
 Here is my python source code for ASCII generator. With my code: 
